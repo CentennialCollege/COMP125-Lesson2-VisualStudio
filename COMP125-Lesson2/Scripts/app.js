@@ -8,9 +8,9 @@
     // code codes in here 
     console.log("App Started...");
 
+    var firstParagraph = document.getElementById("firstParagraph");
 
-
-
+    firstParagraph.textContent = "It's Alive!!!";
 
 
 
